@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'Questrial';
+    src: url(./Questrial-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Peristiwa';
+    src: url(./Peristiwa.otf);
+}
+
+h1{
+    font-family: 'Peristiwa';
+    color: #28a745;
+}
+
+*{
+    font-family: 'Questrial';
+    font-size:large;
+}
+
+#nbreArticlesPanier{
+    position : absolute;
+}
+
+#panier{
+    position:relative
+}
